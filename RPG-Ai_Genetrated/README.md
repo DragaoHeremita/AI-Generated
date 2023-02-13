@@ -2,9 +2,9 @@
  
  Código gerado no Code Completion da OpenAI 
  
- O Sprite foi criado no Dall-E também da OpenAI
+ Os Sprites foram criados no Dall-E também da OpenAI
  
- Não fiz nenhuma alteração no código gerado, porém tive que editar o sprite pois o Dall-E gerou vários spritesheets. Escolhi um, cortei e reescalonei para ficar na tela.
+ Não fiz nenhuma alteração no código gerado, porém tive que editar os sprites pois o Dall-E gerou vários spritesheets. Escolhi um para cada elemento (personagem, inimigo e projétil), cortei e reescalonei eles para ficarem razoáveis na tela.
 
  Como pode perceber solicitei que a AI gerasse um jogo de RPG porém o jogogerado parece mais um Space Invaders.
 
